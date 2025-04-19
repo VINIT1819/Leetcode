@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/VINIT1819/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/VINIT1819/Leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
