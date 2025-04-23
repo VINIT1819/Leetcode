@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/VINIT1819/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/VINIT1819/Leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/VINIT1819/Leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VINIT1819/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Recursion
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/VINIT1819/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/VINIT1819/Leetcode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/VINIT1819/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
 |  |
